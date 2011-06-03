@@ -1,4 +1,4 @@
 ﻿Public Class Usuario
     'Alterado no Visual Studio
-    'Alterado no Visual Studio só para lascar
+    'Alterado no GitHub
 End Class
